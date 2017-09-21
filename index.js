@@ -16,3 +16,6 @@ console.log("Done!")
 
 // Sample hashed password: $2a$13$41tcxJSGOc4ZJCvDoNDzwuW3PEb4YYbKAHaMeUyYGrAccDX5lz5Ty
 // Note I'm using salt level 13
+
+/*
+- To test, clone this repo. Run npm install, then node index.js
